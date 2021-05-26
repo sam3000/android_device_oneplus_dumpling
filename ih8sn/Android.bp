@@ -1,0 +1,6 @@
+prebuilt_etc {
+    name: "ih8sn.conf.dumpling",
+    src: "ih8sn.conf.dumpling",
+    filename: "ih8sn.conf",
+    required: ["ih8sn"],
+}
